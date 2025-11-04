@@ -2,6 +2,12 @@
 
 A simple, offline-capable todo list application built with Flutter using local state management.
 
+## Author
+
+- Name: Le Dinh Phuc
+- Class: 22GIT
+- From VKU
+
 ## Features
 
 - Add new tasks
